@@ -1,1 +1,1 @@
-Holberton dir for high level language
+Holberton repo for high level language.
