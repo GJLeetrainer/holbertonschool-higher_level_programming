@@ -12,4 +12,3 @@ elif lastNumber == 0:
 else:
     print(f'Last digit of {number} is {lastNumber} '
           f'and is less than 6 and not 0')
-    
